@@ -1,0 +1,8 @@
+[book]
+authors = ["Aolica"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "Music Theory"
+[output.html]
+git-repository-url = "https://github.com/Aolica/Music-Theory"
